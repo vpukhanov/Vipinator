@@ -1,3 +1,7 @@
+# ⚠️ Project on hiatus
+
+My Apple Developer membership can't be renewed due to Apple no longer accepting payment methods available in my country. As such, I am unable to release new builds or re-notarize the old ones. You should be able to continue using the build you already have installed, or build the app yourself from this source code. 
+
 # Vipinator
 
 Vipinator is a macOS menu bar app that provides easy management of VPN connections. It allows users to quickly connect, disconnect, and view the status of their VPN connections directly from the menu bar.
